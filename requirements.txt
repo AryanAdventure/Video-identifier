@@ -8,3 +8,4 @@ joblib
 numpy
 pandas
 Pillow
+ ViTImageProcessor
